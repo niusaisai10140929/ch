@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  #header{
+    width:900px;
+    height:80px;
+    margin:auto;
+    margin-bottom:30px;
+    #log{
+      display:inline-block;
+      width:185px;
+      height:80px;
+      background: url(../img/welland.gif) 0 21px no-repeat;
+     }
+    #lo{
+      width:185px;
+      height:65px;
+      display:inline-block;
+      background: url(../img/welreg_01.gif) 0px 7px no-repeat;
+    }
+  }
+  #login{
+    width:900px;
+    height:30px;
+    margin:auto;
+      p{
+        float:right;
+        font-size:16px;
+        a{
+          font-size:16px;
+          color:#0089cf;
+        }
+      }
+  }
+  #registor {
+    width: 900px;
+    height: 55px;
+    margin: auto;
+    #reg_r {
+      font-size: 14px;
+      float: right;
+      line-height: 55px;
+    }
+    p {
+      span {
+        color: red;
+      }
+    }
+  }
+  #reg_l {
+    width: 200px;
+    background: #ff8400;
+    font-size: 18px;
+    line-height: 55px;
+    float: left;
+    text-align: center;
+  }
+  #pho{
+    img{
+      display: block;
+      position: absolute;
+      left:90px;
+    }
+  }
+  #registors {
+    border: 2px solid #ff8400;
+    width: 900px;
+    height: 550px;
+    margin: 0 auto 50px;
+    padding-top: 50px;
+    line-height: 55px;
+    margin-bottom:50px;
+    p {
+      margin-left: 144px;
+    }
+     #btn{
+      width: 300px;
+      height:45px;
+      border: 2px solid #a2a2a2;
+    }
+    #num {
+      #ton {
+        width: 155px;
+        height: 45px;
+      }
+    }
+    #reads {
+      #read {
+       margin-left:65px;
+      
+      a {
+        text-decoration: none;
+      }
+    }
+    }
+    #reading {
+      margin-left: 210px;
+      #submit {
+        background: #e50038;
+        width: 160px;
+        height: 40px;
+      }
+    }
+    #tip {
+      font-size: 12px;
+      line-height: 28px;
+      margin-left: 200px;
+      margin-top: 20px;
+    }
+  }
+  #logo{
+    margin:auto;
+    width:900px;
+    height:112px;
+    background:url(../img/footer_ad.jpg) center top no-repeat;
+  }
+  #list{
+      width:900px;
+      height:195px;
+      border-bottom:2px solid #e6e6e6;
+      margin:auto;
+    
+      #user{
+          margin-top: 28px;
+          margin-left: 30px;
+          width:100px;
+          height:129px;
+          border-right:2px dotted  #dbd6d6;
+          line-height:25px;
+          float:left;
+          h4{
+              font-size:14px;
+          }
+      }
+        #cheap{
+            margin-top: 28px;
+            margin-left: 30px;
+            width:100px;
+            height:129px;
+            line-height:25px;
+            float:left;
+            h4{
+                font-size:14px;
+            }
+      }
+      #user_nb{
+          float:left;
+          margin:30px 27px 0 24px;
+          img{
+              width:86px;
+          }
+      }
+      #phone{
+          margin:55px 59px 0 19px;
+          float:left;
+      }
+    }
+    #ending{
+        width:900px;
+        height:260px;
+        margin: auto;
+       padding-left:96px;
+       margin-top:25px;
+       font-size:12px;
+       a{
+           margin-left:8px;
+           margin-right:8px;
+       }
+       p{
+           margin-top:10px;
+           text-align:center;
+           line-height:25px;
+       }
+
+    }
